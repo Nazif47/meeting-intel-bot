@@ -1,0 +1,14 @@
+# ── Core Google Cloud ──────────────────────────────────────────────────────────
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.127.0
+google-cloud-storage>=2.16.0
+
+# ── AI (Vertex AI / Gemini) — MUST be google-genai, NOT vertexai ───────────────
+google-genai>=1.0.0
+
+# ── PDF generation ─────────────────────────────────────────────────────────────
+fpdf2>=2.7.0
+
+# ── Environment ────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.1

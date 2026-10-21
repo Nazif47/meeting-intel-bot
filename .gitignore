@@ -1,0 +1,13 @@
+# Security
+.env
+credentials.json
+service_account.json
+
+# Python Virtual Environment
+venv/
+env/
+__pycache__/
+
+# Output Files
+*.pdf
+*.wav
